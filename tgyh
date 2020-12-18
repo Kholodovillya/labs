@@ -1,0 +1,5 @@
+int x = 23;
+if (x > 23 && x <= 100)
+{ printf("I li ke the number %i\", x);}
+else {printf ("I don`t like the number %i\n", x);
+}
